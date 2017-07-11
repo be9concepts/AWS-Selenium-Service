@@ -23,7 +23,7 @@ while [[ $RUN = 'true' ]]; do
        echo running command $NEWRESPONSE2
        sudo python2.7 tests/$NEWRESPONSE2.py
        echo resetting server state
-       curl -s 'https://be9concepts.com/Selenium-IFTTT/update.php?state=false&command=done'
+       curl -s 'https://YOURWEBSITE.com/update.php?state=false&command=YOURCOMMAND'
        echo done
        echo waiting again...
        sleep 10
