@@ -75,6 +75,7 @@ Now that we have a working instance of Selenium Server, we would ideally like to
 
 ### Using IFTTT's Maker WebHooks
 This service relies on a web server to hold the `state` and `command`
+
 The script expects a response from the server as: `state`*.*`command`
 
 1. Make note of the file name for the test you would like to trigger
@@ -83,7 +84,7 @@ The script expects a response from the server as: `state`*.*`command`
 4. For **THIS** use whatever you would like to trigger the test.
 5. For **THAT** select WebHooks
 6. Use your servers url+**/update.php?state=true&command=`yourcommandname`**
-7. 
+7. Set method to ***POST***
 ### Todos
 
  - Host web server with Amazon
