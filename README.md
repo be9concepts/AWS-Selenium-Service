@@ -85,6 +85,7 @@ The script expects a response from the server as: `state`*.*`command`
 5. For **THAT** select WebHooks
 6. Use your servers url+**/update.php?state=true&command=`yourcommandname`**
 7. Set method to ***POST***
+8. Save and test your Applet
 ### Todos
 
  - Host web server with Amazon
