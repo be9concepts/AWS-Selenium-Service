@@ -75,6 +75,7 @@ Now that we have a working instance of Selenium Server, we would ideally like to
 
 ### Using IFTTT's Maker WebHooks
 This service relies on a web server to hold the `state` and `command`
+The script expects a response from the server as: `state`*.*`command`
 
 1. Make note of the file name for the test you would like to trigger
 2. Navigate to [IFTTT's MakerWebhooks]('https://ifttt.com/maker_webhooks')
