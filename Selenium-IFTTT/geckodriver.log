@@ -1,0 +1,1435 @@
+1499724453008	geckodriver	INFO	Listening on 127.0.0.1:41266
+1499724454073	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1499724994793	geckodriver	INFO	Listening on 127.0.0.1:46399
+1499724995857	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1499725079754	geckodriver	INFO	Listening on 127.0.0.1:59397
+1499725080819	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1499725112975	geckodriver	INFO	Listening on 127.0.0.1:56214
+1499725114043	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1499725257371	geckodriver	INFO	Listening on 127.0.0.1:50641
+1499725258438	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1499744877585	geckodriver	INFO	Listening on 127.0.0.1:46729
+1499744878649	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:27224): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:27224): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:27224): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499744881191	Marionette	INFO	Listening on port 34017
+
+(firefox:27224): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499744881383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499744882805	Marionette	INFO	New connections will no longer be accepted
+1499744938746	geckodriver	INFO	Listening on 127.0.0.1:36371
+1499744939809	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:27315): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:27315): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:27315): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499744942238	Marionette	INFO	Listening on port 41308
+
+(firefox:27315): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499744942355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499744943870	Marionette	INFO	New connections will no longer be accepted
+1499744980647	geckodriver	INFO	Listening on 127.0.0.1:50282
+1499744981712	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:27408): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:27408): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:27408): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499744983872	Marionette	INFO	Listening on port 41965
+
+(firefox:27408): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499744983987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499744985263	Marionette	INFO	New connections will no longer be accepted
+1499745042905	geckodriver	INFO	Listening on 127.0.0.1:52467
+1499745043972	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:27515): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:27515): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:27515): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499745046141	Marionette	INFO	Listening on port 37335
+
+(firefox:27515): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499745046246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499745047551	Marionette	INFO	New connections will no longer be accepted
+1499746618654	geckodriver	INFO	Listening on 127.0.0.1:40290
+1499746619719	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1499746668773	geckodriver	INFO	Listening on 127.0.0.1:60608
+1499746669839	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1499746726798	geckodriver	INFO	Listening on 127.0.0.1:36326
+1499746727863	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:27999): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:27999): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:27999): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499746729956	Marionette	INFO	Listening on port 44150
+
+(firefox:27999): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499746730049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499746731318	Marionette	INFO	New connections will no longer be accepted
+1499746734670	geckodriver	INFO	Listening on 127.0.0.1:36814
+1499746735734	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:28072): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:28072): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:28072): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499746737734	Marionette	INFO	Listening on port 40866
+
+(firefox:28072): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499746737863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499746739250	Marionette	INFO	New connections will no longer be accepted
+1499746839895	geckodriver	INFO	Listening on 127.0.0.1:49622
+1499746840960	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:28187): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:28187): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:28187): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499746843085	Marionette	INFO	Listening on port 34596
+
+(firefox:28187): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499746843231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499746844484	Marionette	INFO	New connections will no longer be accepted
+1499747146334	geckodriver	INFO	Listening on 127.0.0.1:47522
+1499747147398	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:28469): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:28469): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:28469): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499747149479	Marionette	INFO	Listening on port 41354
+
+(firefox:28469): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499747149574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499747150928	Marionette	INFO	New connections will no longer be accepted
+1499747364666	geckodriver	INFO	Listening on 127.0.0.1:44271
+1499747365736	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:28675): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:28675): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:28675): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499747367940	Marionette	INFO	Listening on port 40501
+
+(firefox:28675): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499747368030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499747369270	Marionette	INFO	New connections will no longer be accepted
+1499747709686	geckodriver	INFO	Listening on 127.0.0.1:53671
+1499747710753	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:28860): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:28860): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:28860): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499747712801	Marionette	INFO	Listening on port 39116
+
+(firefox:28860): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499747712903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499747714286	Marionette	INFO	New connections will no longer be accepted
+1499748334045	geckodriver	INFO	Listening on 127.0.0.1:51224
+1499748335113	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:29390): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29390): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29390): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748337239	Marionette	INFO	Listening on port 33820
+
+(firefox:29390): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499748337358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499748346586	geckodriver	INFO	Listening on 127.0.0.1:39386
+1499748347654	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:29470): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29470): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29470): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748349849	Marionette	INFO	Listening on port 34537
+
+(firefox:29470): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499748349959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499748351141	Marionette	INFO	New connections will no longer be accepted
+1499748361979	geckodriver	INFO	Listening on 127.0.0.1:43206
+1499748363046	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:29546): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29546): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29546): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748365258	Marionette	INFO	Listening on port 36254
+
+(firefox:29546): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499748365392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499748366639	Marionette	INFO	New connections will no longer be accepted
+1499748377569	geckodriver	INFO	Listening on 127.0.0.1:33829
+1499748378636	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:29622): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29622): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29622): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748380737	Marionette	INFO	Listening on port 39961
+
+(firefox:29622): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499748380826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499748382088	Marionette	INFO	New connections will no longer be accepted
+1499748392985	geckodriver	INFO	Listening on 127.0.0.1:34528
+1499748394053	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:29704): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29704): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29704): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748396234	Marionette	INFO	Listening on port 46731
+
+(firefox:29704): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499748396319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499748397519	Marionette	INFO	New connections will no longer be accepted
+1499748408416	geckodriver	INFO	Listening on 127.0.0.1:55188
+1499748409483	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:29780): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29780): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29780): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748411592	Marionette	INFO	Listening on port 38153
+
+(firefox:29780): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499748411693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499748413122	Marionette	INFO	New connections will no longer be accepted
+1499748627462	geckodriver	INFO	Listening on 127.0.0.1:36199
+1499748628529	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:29867): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29867): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29867): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748630658	Marionette	INFO	Listening on port 35019
+
+(firefox:29867): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499748630772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499748632024	Marionette	INFO	New connections will no longer be accepted
+1499748642901	geckodriver	INFO	Listening on 127.0.0.1:40250
+1499748643968	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:29943): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29943): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:29943): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748850727	geckodriver	INFO	Listening on 127.0.0.1:59412
+1499748851791	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:30136): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30136): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30136): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748853980	Marionette	INFO	Listening on port 43357
+
+(firefox:30136): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499748854074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499748855331	Marionette	INFO	New connections will no longer be accepted
+1499748866207	geckodriver	INFO	Listening on 127.0.0.1:43020
+1499748867272	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:30214): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30214): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30214): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748869448	Marionette	INFO	Listening on port 36856
+
+(firefox:30214): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499748869559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499748870819	Marionette	INFO	New connections will no longer be accepted
+1499748881689	geckodriver	INFO	Listening on 127.0.0.1:44011
+1499748882753	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:30299): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30299): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30299): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748884880	Marionette	INFO	Listening on port 40428
+
+(firefox:30299): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499748884997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499748886212	Marionette	INFO	New connections will no longer be accepted
+1499748897132	geckodriver	INFO	Listening on 127.0.0.1:46960
+1499748898196	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:30376): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30376): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30376): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748911552	geckodriver	INFO	Listening on 127.0.0.1:49207
+1499748912619	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:30453): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30453): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30453): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499748914752	Marionette	INFO	Listening on port 40181
+
+(firefox:30453): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499748914869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499748916117	Marionette	INFO	New connections will no longer be accepted
+1499748926983	geckodriver	INFO	Listening on 127.0.0.1:35326
+1499748928047	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Traceback (most recent call last):
+  File "/usr/bin/lsb_release", line 20, in <module>
+    from optparse import OptionParser
+  File "/usr/lib/python3.5/optparse.py", line 76, in <module>
+    import textwrap
+  File "/usr/lib/python3.5/textwrap.py", line 22, in <module>
+    class TextWrapper:
+  File "/usr/lib/python3.5/textwrap.py", line 99, in TextWrapper
+    )''' % {'wp': word_punct, 'lt': letter}, re.VERBOSE)
+  File "/usr/lib/python3.5/re.py", line 224, in compile
+    return _compile(pattern, flags)
+  File "/usr/lib/python3.5/re.py", line 293, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/lib/python3.5/sre_compile.py", line 536, in compile
+    p = sre_parse.parse(p, flags)
+  File "/usr/lib/python3.5/sre_parse.py", line 829, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/usr/lib/python3.5/sre_parse.py", line 437, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/usr/lib/python3.5/sre_parse.py", line 783, in _parse
+    state.closegroup(group, p)
+  File "/usr/lib/python3.5/sre_parse.py", line 91, in closegroup
+    self.groupwidths[gid] = p.getwidth()
+  File "/usr/lib/python3.5/sre_parse.py", line 177, in getwidth
+    l, h = av.getwidth()
+  File "/usr/lib/python3.5/sre_parse.py", line 187, in getwidth
+    i, j = av[1].getwidth()
+  File "/usr/lib/python3.5/sre_parse.py", line 179, in getwidth
+    j = max(j, h)
+KeyboardInterrupt
+1499749213663	geckodriver	INFO	Listening on 127.0.0.1:40918
+1499749214732	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:30683): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30683): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30683): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499749216977	Marionette	INFO	Listening on port 39128
+
+(firefox:30683): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499749217086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499749218268	Marionette	INFO	New connections will no longer be accepted
+1499749229161	geckodriver	INFO	Listening on 127.0.0.1:49190
+1499749230225	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:30761): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30761): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30761): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499749232346	Marionette	INFO	Listening on port 34937
+
+(firefox:30761): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499749232485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499749233644	Marionette	INFO	New connections will no longer be accepted
+1499749483029	geckodriver	INFO	Listening on 127.0.0.1:36488
+1499749484095	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:30918): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30918): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30918): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499749486313	Marionette	INFO	Listening on port 36692
+
+(firefox:30918): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499749486440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499749487693	Marionette	INFO	New connections will no longer be accepted
+1499749498616	geckodriver	INFO	Listening on 127.0.0.1:46180
+1499749499684	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:30999): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30999): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:30999): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499749501904	Marionette	INFO	Listening on port 46264
+
+(firefox:30999): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499749502042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499749587776	geckodriver	INFO	Listening on 127.0.0.1:34566
+1499749588843	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:31081): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31081): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31081): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499749590896	Marionette	INFO	Listening on port 40712
+
+(firefox:31081): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499749591019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499749592358	Marionette	INFO	New connections will no longer be accepted
+1499749603224	geckodriver	INFO	Listening on 127.0.0.1:40038
+1499749604289	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1499749615411	geckodriver	INFO	Listening on 127.0.0.1:44392
+1499749616478	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:31202): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31202): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31202): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499749618668	Marionette	INFO	Listening on port 43135
+
+(firefox:31202): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499749618779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499749620123	Marionette	INFO	New connections will no longer be accepted
+1499749631012	geckodriver	INFO	Listening on 127.0.0.1:33004
+1499749632079	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:31284): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31284): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31284): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499749634309	Marionette	INFO	Listening on port 37993
+
+(firefox:31284): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499749634435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499749635725	Marionette	INFO	New connections will no longer be accepted
+1499749646587	geckodriver	INFO	Listening on 127.0.0.1:40455
+1499749647653	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:31362): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31362): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31362): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499749649800	Marionette	INFO	Listening on port 38081
+
+(firefox:31362): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499749649912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499749651214	Marionette	INFO	New connections will no longer be accepted
+1499749662204	geckodriver	INFO	Listening on 127.0.0.1:38323
+1499749663271	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:31441): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31441): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31441): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499749665428	Marionette	INFO	Listening on port 40110
+
+(firefox:31441): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499749665518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499749666707	Marionette	INFO	New connections will no longer be accepted
+1499749677582	geckodriver	INFO	Listening on 127.0.0.1:57530
+1499750281871	geckodriver	INFO	Listening on 127.0.0.1:52840
+1499750282939	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:31720): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31720): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31720): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499750285024	Marionette	INFO	Listening on port 36269
+
+(firefox:31720): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499750285126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499750286385	Marionette	INFO	New connections will no longer be accepted
+1499750617511	geckodriver	INFO	Listening on 127.0.0.1:35473
+1499750618579	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:31892): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31892): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:31892): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499750620717	Marionette	INFO	Listening on port 45091
+
+(firefox:31892): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499750620836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499750622078	Marionette	INFO	New connections will no longer be accepted
+1499750632954	geckodriver	INFO	Listening on 127.0.0.1:40025
+1499750634018	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1499750675453	geckodriver	INFO	Listening on 127.0.0.1:53607
+1499750676517	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:32025): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32025): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32025): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499750678667	Marionette	INFO	Listening on port 35181
+
+(firefox:32025): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499750678774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499750680076	Marionette	INFO	New connections will no longer be accepted
+1499750832658	geckodriver	INFO	Listening on 127.0.0.1:36986
+1499750833725	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:32126): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499750946589	geckodriver	INFO	Listening on 127.0.0.1:36566
+1499750947653	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:32208): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32208): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32208): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499750949576	Marionette	INFO	Listening on port 38400
+
+(firefox:32208): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499750949755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499750951085	Marionette	INFO	New connections will no longer be accepted
+1499750992979	geckodriver	INFO	Listening on 127.0.0.1:42743
+1499750994047	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:32318): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32318): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32318): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499750996090	Marionette	INFO	Listening on port 36642
+
+(firefox:32318): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499750996190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499750997411	Marionette	INFO	New connections will no longer be accepted
+1499751091189	geckodriver	INFO	Listening on 127.0.0.1:34850
+1499751092257	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:32479): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32479): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32479): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499751094410	Marionette	INFO	Listening on port 43418
+
+(firefox:32479): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499751094508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499751095735	Marionette	INFO	New connections will no longer be accepted
+1499751142986	geckodriver	INFO	Listening on 127.0.0.1:33303
+1499751144054	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:32607): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32607): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32607): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499751146161	Marionette	INFO	Listening on port 45193
+
+(firefox:32607): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499751146252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499751147467	Marionette	INFO	New connections will no longer be accepted
+1499751202783	geckodriver	INFO	Listening on 127.0.0.1:49203
+1499751203852	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:32731): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32731): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:32731): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499751206020	Marionette	INFO	Listening on port 41778
+
+(firefox:32731): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499751206115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499751207377	Marionette	INFO	New connections will no longer be accepted
+1499751766574	geckodriver	INFO	Listening on 127.0.0.1:52599
+1499751767641	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:1118): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1118): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1118): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499751769800	Marionette	INFO	Listening on port 38095
+
+(firefox:1118): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499751769922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499751771163	Marionette	INFO	New connections will no longer be accepted
+1499751835757	geckodriver	INFO	Listening on 127.0.0.1:53929
+1499751836822	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:1271): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1271): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1271): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499751838986	Marionette	INFO	Listening on port 34477
+
+(firefox:1271): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499751839069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499751840231	Marionette	INFO	New connections will no longer be accepted
+1499752003204	geckodriver	INFO	Listening on 127.0.0.1:37197
+1499752004268	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:1431): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1431): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1431): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499752006455	Marionette	INFO	Listening on port 42629
+
+(firefox:1431): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499752006536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499752007738	Marionette	INFO	New connections will no longer be accepted
+1499752088590	geckodriver	INFO	Listening on 127.0.0.1:55579
+1499752089658	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1499752228668	geckodriver	INFO	Listening on 127.0.0.1:36545
+1499752229735	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+Error: GDK_BACKEND does not match available displays
+1499752267508	geckodriver	INFO	Listening on 127.0.0.1:57670
+1499752268574	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:1679): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1679): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1679): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499752270472	Marionette	INFO	Listening on port 34375
+
+(firefox:1679): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499752270610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499752271965	Marionette	INFO	New connections will no longer be accepted
+1499752481650	geckodriver	INFO	Listening on 127.0.0.1:53433
+1499752482714	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:1866): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1866): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1866): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499752484875	Marionette	INFO	Listening on port 43123
+
+(firefox:1866): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499752484993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499752486275	Marionette	INFO	New connections will no longer be accepted
+1499752963344	geckodriver	INFO	Listening on 127.0.0.1:54672
+1499752964410	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2155): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2155): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2155): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499752966559	Marionette	INFO	Listening on port 39055
+
+(firefox:2155): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499752966665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499752967833	Marionette	INFO	New connections will no longer be accepted
+1499753026733	geckodriver	INFO	Listening on 127.0.0.1:52633
+1499753027801	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2261): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2261): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2261): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499753030002	Marionette	INFO	Listening on port 43356
+
+(firefox:2261): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499753030084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499753031327	Marionette	INFO	New connections will no longer be accepted
+1499753052510	geckodriver	INFO	Listening on 127.0.0.1:32860
+1499753053580	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2354): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2354): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2354): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499753055772	Marionette	INFO	Listening on port 46819
+
+(firefox:2354): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499753055856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499753057090	Marionette	INFO	New connections will no longer be accepted
+1499768990955	geckodriver	INFO	Listening on 127.0.0.1:36466
+1499768992020	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:1497): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1497): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1497): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499768994125	Marionette	INFO	Listening on port 40659
+
+(firefox:1497): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499768994225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499768995452	Marionette	INFO	New connections will no longer be accepted
+1499769011644	geckodriver	INFO	Listening on 127.0.0.1:48778
+1499769012711	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:1588): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1588): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1588): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499769014778	Marionette	INFO	Listening on port 44520
+
+(firefox:1588): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499769014864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499769016401	Marionette	INFO	New connections will no longer be accepted
+1499769078921	geckodriver	INFO	Listening on 127.0.0.1:37167
+1499769079987	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:1742): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1742): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1742): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499769082087	Marionette	INFO	Listening on port 45281
+
+(firefox:1742): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499769082176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499769083429	Marionette	INFO	New connections will no longer be accepted
+1499769405977	geckodriver	INFO	Listening on 127.0.0.1:36103
+1499769407043	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2038): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2038): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2038): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499769408983	Marionette	INFO	Listening on port 36758
+
+(firefox:2038): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499769409082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499769410389	Marionette	INFO	New connections will no longer be accepted
+1499769431576	geckodriver	INFO	Listening on 127.0.0.1:57204
+1499769432640	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2132): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2132): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2132): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499769434714	Marionette	INFO	Listening on port 33608
+
+(firefox:2132): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499769434815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499769436407	Marionette	INFO	New connections will no longer be accepted
+1499770550483	geckodriver	INFO	Listening on 127.0.0.1:42409
+1499770551548	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2262): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2262): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2262): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499770553634	Marionette	INFO	Listening on port 41018
+
+(firefox:2262): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499770553717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499770555236	Marionette	INFO	New connections will no longer be accepted
+1499770715575	geckodriver	INFO	Listening on 127.0.0.1:45353
+1499770716640	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2364): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2364): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2364): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499770718744	Marionette	INFO	Listening on port 36008
+
+(firefox:2364): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499770718825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499770757926	geckodriver	INFO	Listening on 127.0.0.1:57193
+1499770758992	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2449): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2449): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2449): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499770761112	Marionette	INFO	Listening on port 45253
+
+(firefox:2449): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499770761230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499770762445	Marionette	INFO	New connections will no longer be accepted
+1499770773369	geckodriver	INFO	Listening on 127.0.0.1:34751
+1499770774436	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2528): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2528): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2528): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499770776535	Marionette	INFO	Listening on port 40871
+
+(firefox:2528): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499770776635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499770813284	geckodriver	INFO	Listening on 127.0.0.1:54557
+1499770814350	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2626): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2626): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2626): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499770816501	Marionette	INFO	Listening on port 44073
+
+(firefox:2626): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499770816600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499770818124	Marionette	INFO	New connections will no longer be accepted
+1499770828987	geckodriver	INFO	Listening on 127.0.0.1:41792
+1499770830053	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2704): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2704): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2704): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499770832157	Marionette	INFO	Listening on port 34819
+
+(firefox:2704): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499770832249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499770833495	Marionette	INFO	New connections will no longer be accepted
+1499771437395	geckodriver	INFO	Listening on 127.0.0.1:49617
+1499771438460	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:3546): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:3546): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:3546): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499771440594	Marionette	INFO	Listening on port 33305
+
+(firefox:3546): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499771440719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499771442240	Marionette	INFO	New connections will no longer be accepted
+1499771745240	geckodriver	INFO	Listening on 127.0.0.1:35402
+1499771746307	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:3626): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:3626): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:3626): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499771748411	Marionette	INFO	Listening on port 35108
+
+(firefox:3626): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499771748499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499771750042	Marionette	INFO	New connections will no longer be accepted
+1499771979736	geckodriver	INFO	Listening on 127.0.0.1:43832
+1499771980802	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:3714): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:3714): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:3714): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499771982934	Marionette	INFO	Listening on port 33335
+
+(firefox:3714): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499771983039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499771984572	Marionette	INFO	New connections will no longer be accepted
+1499772833441	geckodriver	INFO	Listening on 127.0.0.1:54598
+1499772834505	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:3797): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:3797): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:3797): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499772836649	Marionette	INFO	Listening on port 33610
+
+(firefox:3797): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499772836749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499772839617	Marionette	INFO	New connections will no longer be accepted
+1499773264440	geckodriver	INFO	Listening on 127.0.0.1:46331
+1499773265507	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:3888): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:3888): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:3888): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1499773267632	Marionette	INFO	Listening on port 42600
+
+(firefox:3888): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1499773267754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499773269904	Marionette	INFO	New connections will no longer be accepted
+1500225341920	geckodriver	INFO	Listening on 127.0.0.1:57463
+1500225342986	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:19471): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19471): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19471): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225345245	Marionette	INFO	Listening on port 39296
+
+(firefox:19471): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225345352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225347516	Marionette	INFO	New connections will no longer be accepted
+1500225358162	geckodriver	INFO	Listening on 127.0.0.1:59627
+1500225359228	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:19550): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19550): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19550): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225361399	Marionette	INFO	Listening on port 37178
+
+(firefox:19550): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225361493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225363522	Marionette	INFO	New connections will no longer be accepted
+1500225373975	geckodriver	INFO	Listening on 127.0.0.1:42227
+1500225375039	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:19628): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19628): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19628): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225377256	Marionette	INFO	Listening on port 36446
+
+(firefox:19628): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225377379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225379457	Marionette	INFO	New connections will no longer be accepted
+1500225389925	geckodriver	INFO	Listening on 127.0.0.1:52226
+1500225390991	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:19713): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19713): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19713): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225393141	Marionette	INFO	Listening on port 44729
+
+(firefox:19713): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225393264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225395215	Marionette	INFO	New connections will no longer be accepted
+1500225405787	geckodriver	INFO	Listening on 127.0.0.1:45104
+1500225406853	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:19791): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19791): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19791): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225408958	Marionette	INFO	Listening on port 37073
+
+(firefox:19791): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225409053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225411219	Marionette	INFO	New connections will no longer be accepted
+1500225421805	geckodriver	INFO	Listening on 127.0.0.1:52845
+1500225422869	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:19874): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19874): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19874): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225424930	Marionette	INFO	Listening on port 39482
+
+(firefox:19874): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225425022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225426986	Marionette	INFO	New connections will no longer be accepted
+1500225437439	geckodriver	INFO	Listening on 127.0.0.1:39309
+1500225438507	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:19953): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19953): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:19953): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225440573	Marionette	INFO	Listening on port 37538
+
+(firefox:19953): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225440672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225442618	Marionette	INFO	New connections will no longer be accepted
+1500225453069	geckodriver	INFO	Listening on 127.0.0.1:55296
+1500225454133	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:20031): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20031): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20031): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225456222	Marionette	INFO	Listening on port 39778
+
+(firefox:20031): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225456322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225458496	Marionette	INFO	New connections will no longer be accepted
+1500225469038	geckodriver	INFO	Listening on 127.0.0.1:38632
+1500225470103	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:20115): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20115): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20115): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225472242	Marionette	INFO	Listening on port 36353
+
+(firefox:20115): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225472349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225474404	Marionette	INFO	New connections will no longer be accepted
+1500225485001	geckodriver	INFO	Listening on 127.0.0.1:48077
+1500225524440	geckodriver	INFO	Listening on 127.0.0.1:56768
+1500225525504	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:20218): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20218): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20218): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225527466	Marionette	INFO	Listening on port 42317
+
+(firefox:20218): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225527545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225529593	Marionette	INFO	New connections will no longer be accepted
+1500225540090	geckodriver	INFO	Listening on 127.0.0.1:36797
+1500225541154	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:20302): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20302): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20302): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225543221	Marionette	INFO	Listening on port 39545
+
+(firefox:20302): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225543322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225545396	Marionette	INFO	New connections will no longer be accepted
+1500225555990	geckodriver	INFO	Listening on 127.0.0.1:60018
+1500225557057	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:20386): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20386): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20386): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225559174	Marionette	INFO	Listening on port 38647
+
+(firefox:20386): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225559300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225561321	Marionette	INFO	New connections will no longer be accepted
+1500225571792	geckodriver	INFO	Listening on 127.0.0.1:51447
+1500225572860	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:20464): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20464): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20464): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225574979	Marionette	INFO	Listening on port 45857
+
+(firefox:20464): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225575122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225577038	Marionette	INFO	New connections will no longer be accepted
+1500225587490	geckodriver	INFO	Listening on 127.0.0.1:34920
+1500225588557	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:20542): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20542): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20542): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225590795	Marionette	INFO	Listening on port 43043
+
+(firefox:20542): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225590899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225592913	Marionette	INFO	New connections will no longer be accepted
+1500225603442	geckodriver	INFO	Listening on 127.0.0.1:35816
+1500225604509	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:20620): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20620): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:20620): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500225606668	Marionette	INFO	Listening on port 33166
+
+(firefox:20620): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500225606760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.yalehomesystem.co.uk//homeportal/html/js/lib/jquery.mobile-min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500225608859	Marionette	INFO	New connections will no longer be accepted
+1500226514289	geckodriver	INFO	Listening on 127.0.0.1:50710
+1500226515349	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:1711): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1711): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:1711): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500226518622	Marionette	INFO	Listening on port 39274
+
+(firefox:1711): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500226518699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500226520024	Marionette	INFO	New connections will no longer be accepted
+1500227929059	geckodriver	INFO	Listening on 127.0.0.1:35508
+1500227930125	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2148): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2148): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2148): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500227932118	Marionette	INFO	Listening on port 35923
+
+(firefox:2148): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500227932200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500227933393	Marionette	INFO	New connections will no longer be accepted
+1500227944515	geckodriver	INFO	Listening on 127.0.0.1:47077
+1500227945581	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2231): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500228711045	geckodriver	INFO	Listening on 127.0.0.1:42325
+1500228712108	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2371): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2371): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2371): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500228714135	Marionette	INFO	Listening on port 37964
+
+(firefox:2371): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500228714258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500228715428	Marionette	INFO	New connections will no longer be accepted
+1500228774684	geckodriver	INFO	Listening on 127.0.0.1:39961
+1500228775748	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:2518): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2518): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+
+(firefox:2518): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1500228777798	Marionette	INFO	Listening on port 44255
+
+(firefox:2518): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+/usr/bin/dbus-launch terminated abnormally without any error message
+1500228777896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500228779118	Marionette	INFO	New connections will no longer be accepted
