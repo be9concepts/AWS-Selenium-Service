@@ -1,3 +1,5 @@
+  GNU nano 2.5.3            File: ifttt-watcher.sh                              
+
 #!/bin/bash
 # Selenium Bash Script
 # Created by @Be9Concepts on Monday, July 10th, 2017
@@ -14,7 +16,7 @@ URL="http://be9concepts.com/Selenium-IFTTT/notify.php"
 RUN='true'
 echo waiting...
 while [[ $RUN = 'true' ]]; do
-  RESPONSE=$(curl -s $URL)
+  RESPONSE=$(curl -s  $URL)
   #echo $RESPONSE
   NEWRESPONSE=$(cut -d "." -f1 <<< $RESPONSE)
   NEWRESPONSE2=$(cut -d "." -f2 <<< $RESPONSE)
@@ -23,7 +25,7 @@ while [[ $RUN = 'true' ]]; do
        echo running command $NEWRESPONSE2
        sudo python2.7 tests/$NEWRESPONSE2.py
        echo resetting server state
-       curl -s 'https://YOURWEBSITE.com/update.php?state=false&command=YOURCOMMAND'
+       curl -s 'https://be9concepts.com/Selenium-IFTTT/update.php?state=false&c$
        echo done
        echo waiting again...
        sleep 10
