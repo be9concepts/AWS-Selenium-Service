@@ -1,0 +1,23 @@
+---
+swagger: "2.0"
+info:
+  version: "2017-07-16T17:08:01Z"
+  title: "SeleniumAPI"
+host: "l7ufle33og.execute-api.us-east-2.amazonaws.com"
+basePath: "/Testing"
+schemes:
+- "https"
+paths:
+  /submitdata:
+    post:
+      produces:
+      - "application/json"
+      responses:
+        200:
+          description: "200 response"
+          schema:
+            $ref: "#/definitions/Empty"
+definitions:
+  Empty:
+    type: "object"
+    title: "Empty Schema"
