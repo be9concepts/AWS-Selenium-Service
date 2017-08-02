@@ -59,7 +59,7 @@ Now that we have a working instance of Selenium Server, we would ideally like to
 3. Press Ctrl+X to exit nano and Y when prompted to save changes.
 4. Restart the server
     ```
-    sudo shutdown –r now
+    sudo shutdown now -r
     ```
     Now every time the AWS EC2 Instance is lanched the service will start automatically 
 
