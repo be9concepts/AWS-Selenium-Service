@@ -6,14 +6,14 @@ Selenium Service for use with AWS EC2, Amazon Alexa &amp; IFTTT MakerWebhooks
 
 ## Installation
 
-Dillinger uses a number of open source projects to work properly:
+The AWS-Selenium-Service uses a number of open source projects to work properly:
 
-* [Selenium]('') - HTML enhanced for web apps!
-* [Python2.7]('')
-* [xvfb]()
-* [X Server Core]() & [Required Fonts]()
-* [Chrome and Chromedriver]()
-* [FireFox]()
+* [Selenium]('http://www.seleniumhq.org/') - HTML enhanced for web apps!
+* [Python2.7]('https://www.python.org/download/releases/2.7/')
+* [xvfb]('https://en.wikipedia.org/wiki/Xvfb')
+* X Server Core & Required Fonts
+* [Chrome]('https://www.google.com/chrome/browser/features.html?') and Chromedriver
+* [FireFox]('https://www.mozilla.org/firefox')
 
 Begin by installing the required packages
 
