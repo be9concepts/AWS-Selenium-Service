@@ -1,7 +1,7 @@
 #!/bin/bash
 # Selenium Bash Script
 # Created by @Be9Concepts on Monday, July 10th, 2017
-# Last updated on August 4th, 2017 by @Be9Concepts
+# Last updated on August 22nd, 2017 by @Be9Concepts
 
 sudo python2.7 /home/ubuntu/Selenium-IFTTT/__init__.py
 
